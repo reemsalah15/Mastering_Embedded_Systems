@@ -1,1 +1,1 @@
-# Assignment for basics of C programming  
+# Assignments for basics of C programming  
