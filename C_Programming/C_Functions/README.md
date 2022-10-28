@@ -1,2 +1,2 @@
-# C-Fuctions
+# C-Functions
 ## Lesson 5
