@@ -1,0 +1,15 @@
+Ex6: Write the output of program
+
+size of union=32
+size of structure=40
+
+
+
+As union contain {
+	 as char(32 bytes) it's maximum size from those data types 
+}
+
+As Structure contain {
+sum of all sizes of each data type (padding) 
+	 char(32 byte) + float(4 bytes) + int(4 bytes)= 40 bytes
+}
